@@ -49,16 +49,16 @@ div {
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border-top: 2px;
-    border-right: 5px;
+    border-bottom: 2px;
+    border-left: 5px;
 }
 
 .blue {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border-left: 5px;
-    border-bottom: 2px;
+    border-right: 5px;
+    border-top: 2px;
     color: #C4C4C4;
 }
 
@@ -70,18 +70,18 @@ div {
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
-    border-top: 2px;
-    border-right: 5px;
+    border-bottom: 2px;
+    border-left: 5px;
     color: #707070;
 }
 
 
 .green {
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-left: 5px;
-    border-bottom: 2px;
+    border-right: 5px;
+    border-top: 2px;
 }
 
 footer {
@@ -91,7 +91,7 @@ footer {
     text-align: right;
 }
 
-.footer p {
+footer p {
     font-size: 20px;
     padding-top: 15px;
     padding-right: 15px;
